@@ -1,5 +1,97 @@
 {
    "files": [    
+
+{
+
+         "name": "SG-DTAC-LZD-FREE-001",
+
+         "url": "https://raw.githubusercontent.com/PaingPainghein/ovpn-file-cod/main/free/SG-DTAC.90day.FREE-001.ovpn"
+
+      },
+{
+
+         "name": "SG-DTAC-LZD-FREE-002",
+
+         "url": "https://raw.githubusercontent.com/PaingPainghein/ovpn-file-cod/main/free/SG-DTAC.90day.FREE-002.ovpn"
+
+      },
+{
+
+         "name": "SG-DTAC-Line-FREE-001",
+
+         "url": "https://raw.githubusercontent.com/PaingPainghein/ovpn-file-cod/main/free/SG-DTAC.line.FREE-001.ovpn"
+
+      },
+
+{
+
+         "name": "SG-DTAC-Line-FREE-002",
+
+         "url": "https://raw.githubusercontent.com/PaingPainghein/ovpn-file-cod/main/free/SG-DTAC.line.FREE-002.ovpn"
+
+      },
+
+{
+
+         "name": "TH-TRUE-ESP-FREE-001",
+
+         "url": "https://raw.githubusercontent.com/PaingPainghein/ovpn-file-cod/main/free/TH-TRUE-Esports-FREE-001.ovpn"
+
+      },
+      
+{
+
+         "name": "TH-TRUE-ESP-FREE-002",
+
+         "url": "https://raw.githubusercontent.com/PaingPainghein/ovpn-file-cod/main/free/TH-TRUE-Esports-FREE-001.ovpn"
+
+      },
+
+{
+
+         "name": "TH-DTAC-LZD-FREE-001",
+
+         "url": "https://raw.githubusercontent.com/PaingPainghein/ovpn-file-cod/main/free/TH-DTAC.90day.FREE-001.ovpn"
+
+      },
+{
+
+         "name": "TH-DTAC-LZD-FREE-002",
+
+         "url": "https://raw.githubusercontent.com/PaingPainghein/ovpn-file-cod/main/free/TH-DTAC.90day.FREE-002.ovpn"
+
+      },
+{
+
+         "name": "TH-DTAC-Line-FREE-001",
+
+         "url": "https://raw.githubusercontent.com/PaingPainghein/ovpn-file-cod/main/free/TH-DTAC.line.FREE-001.ovpn"
+
+      },
+
+{
+
+         "name": "TH-DTAC-Line-FREE-002",
+
+         "url": "https://raw.githubusercontent.com/PaingPainghein/ovpn-file-cod/main/free/TH-DTAC.line.FREE-002.ovpn"
+
+      },
+
+{
+
+         "name": "SG-TRUE-ESP-FREE-001",
+
+         "url": "https://raw.githubusercontent.com/PaingPainghein/ovpn-file-cod/main/free/SG-TRUE-Esports-FREE-001.ovpn"
+
+      },
+
+{
+
+         "name": "SG-TRUE-ESP-FREE-002",
+
+         "url": "https://raw.githubusercontent.com/PaingPainghein/ovpn-file-cod/main/free/SG-TRUE-Esports-FREE-002.ovpn"
+
+      },
 {
 
          "name": "TH-DTAC-90day-VIP-001",
@@ -134,16 +226,9 @@
 
 
    ],
-   "message": "📩𝐔𝐩𝐝𝐚𝐭𝐞 now VIP📩\n•Version:1\n•VIP တစ်လ၅၀ဘတ်ထဲနဲ့အားပေးလို့ရပါတယ်ခင်​ဗျာ\n
-DTAC 90day 61bth 1ဖိုင်TH🇹🇭
-CB လာမေးပေးပါနော်
-TRUE 3Oday 64bth 1ဖိုင်TH🇹🇭
-30days
-*900*3967# (64ဘတ် )
-
+   "message": "📩𝐔𝐩𝐝𝐚𝐭𝐞 now Free&VIP📩\n•Version:1\n•VIP တစ်လ၅၀ဘတ်ထဲနဲ့အားပေးလို့ရပါတယ်ခင်​ဗျာ\n•FREE တွေစမတ်ပြီးတွဲရပါမယ်
 TRUR%DTAC
-
 Fb Paing Paing Hein",
-   "title": "💌𝐀𝐝𝐝 VIP PRO💌",
-   "version": 1
+   "title": "💌𝐀𝐝𝐝 Free&VIP PRO💌",
+   "version": 8
 }
