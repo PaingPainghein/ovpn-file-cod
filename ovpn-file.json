@@ -2,22 +2,21 @@
    "files": [    
 
 {
-
-         "name": "SG-DTAC-LZD-FREE-001",
+         "name": "DTAC-LZD-FREE-001",
 
          "url": "https://raw.githubusercontent.com/PaingPainghein/ovpn-file-cod/main/free/SG-DTAC.90day.FREE-001.ovpn"
 
       },
 {
 
-         "name": "SG-DTAC-LZD-FREE-002",
+         "name": "DTAC-LZD-FREE-002",
 
          "url": "https://raw.githubusercontent.com/PaingPainghein/ovpn-file-cod/main/free/SG-DTAC.90day.FREE-002.ovpn"
 
       },
 {
 
-         "name": "SG-DTAC-Line-FREE-001",
+         "name": "DTAC-Line-FREE-001",
 
          "url": "https://raw.githubusercontent.com/PaingPainghein/ovpn-file-cod/main/free/SG-DTAC.line.FREE-001.ovpn"
 
@@ -25,7 +24,7 @@
 
 {
 
-         "name": "SG-DTAC-Line-FREE-002",
+         "name": "DTAC-Line-FREE-002",
 
          "url": "https://raw.githubusercontent.com/PaingPainghein/ovpn-file-cod/main/free/SG-DTAC.line.FREE-002.ovpn"
 
@@ -33,7 +32,7 @@
 
 {
 
-         "name": "TH-TRUE-ESP-FREE-001",
+         "name": "TRUE-ESP-FREE-001",
 
          "url": "https://raw.githubusercontent.com/PaingPainghein/ovpn-file-cod/main/free/TH-TRUE-Esports-FREE-001.ovpn"
 
@@ -41,7 +40,7 @@
       
 {
 
-         "name": "TH-TRUE-ESP-FREE-002",
+         "name": "TRUE-ESP-FREE-002",
 
          "url": "https://raw.githubusercontent.com/PaingPainghein/ovpn-file-cod/main/free/TH-TRUE-Esports-FREE-001.ovpn"
 
@@ -49,21 +48,21 @@
 
 {
 
-         "name": "TH-DTAC-LZD-FREE-001",
+         "name": "DTAC-LZD-FREE-001",
 
          "url": "https://raw.githubusercontent.com/PaingPainghein/ovpn-file-cod/main/free/TH-DTAC.90day.FREE-001.ovpn"
 
       },
 {
 
-         "name": "TH-DTAC-LZD-FREE-002",
+         "name": "DTAC-LZD-FREE-002",
 
          "url": "https://raw.githubusercontent.com/PaingPainghein/ovpn-file-cod/main/free/TH-DTAC.90day.FREE-002.ovpn"
 
       },
 {
 
-         "name": "TH-DTAC-Line-FREE-001",
+         "name": "DTAC-Line-FREE-001",
 
          "url": "https://raw.githubusercontent.com/PaingPainghein/ovpn-file-cod/main/free/TH-DTAC.line.FREE-001.ovpn"
 
@@ -71,7 +70,7 @@
 
 {
 
-         "name": "TH-DTAC-Line-FREE-002",
+         "name": "DTAC-Line-FREE-002",
 
          "url": "https://raw.githubusercontent.com/PaingPainghein/ovpn-file-cod/main/free/TH-DTAC.line.FREE-002.ovpn"
 
@@ -79,7 +78,7 @@
 
 {
 
-         "name": "SG-TRUE-ESP-FREE-001",
+         "name": "TRUE-ESP-FREE-001",
 
          "url": "https://raw.githubusercontent.com/PaingPainghein/ovpn-file-cod/main/free/SG-TRUE-Esports-FREE-001.ovpn"
 
@@ -87,7 +86,7 @@
 
 {
 
-         "name": "SG-TRUE-ESP-FREE-002",
+         "name": "TRUE-ESP-FREE-002",
 
          "url": "https://raw.githubusercontent.com/PaingPainghein/ovpn-file-cod/main/free/SG-TRUE-Esports-FREE-002.ovpn"
 
